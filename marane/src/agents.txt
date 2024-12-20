@@ -1,0 +1,7 @@
+45389065 mariem lamjed 02345895 mednin Female Parking1 3/1/1934 Part_Time 
+345689765 farah dridi 54670987 bizerte Female Parking1 9/3/1953 Full_Time 
+34567890 salah mestiri 67892340 tunis Male Parking1 6/5/2004 Full_Time 
+92307467 yosra chaeib 56792346 sousse Female Parking1 3/8/1930 Full_Time|Part_Time 
+11111111 salima makhroum 43456787 kbelliii Female Parking1 1/5/1939 Full_Time|Part_Time 
+34986765 soulayma boukhadhra 78654308 ariana Female Parking4 13/3/1930 Part_Time|Temporary_Seasonal 
+98763565 ayoub khedher 29567432 elhamma Male Parking4 3/1/1964 Full_Time|Permanent 
